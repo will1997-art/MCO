@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://www.cisco.com/c/dam/global/pt_br/solutions/small-business/redes/images/redes-empresariales.png);
+    font-family: Arial;
+    background-size:180vh;
+    height:180vh;
+}
+    
+.menu{
+    background-color: white; 
+}
+
+.menu li{
+    list-style: none;
+}
+
+.menu ul{
+    display:flex;
+    justify-content:space-around;
+}
+
+a{
+    color: black;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+
